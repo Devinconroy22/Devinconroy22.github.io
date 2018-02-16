@@ -1,0 +1,14 @@
+html{text-align: center;}
+html{background: Maroon;
+    color: deeppink;
+    font-size: 28pt}
+nav li {display: inline-block}
+nav li {border: 2px solid black}
+nav li {padding: 10px;
+        margin: 5px;
+    background: palegreen}
+a {color: aquamarine
+    text-decoration: none}
+a:hover {color: deepskyblue}
+H1 {background: Maroon;
+    color: deeppink}
